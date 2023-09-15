@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #
 # optimize-build.sh takes a build plan (a list of files to build and their
 # sources) and a command.

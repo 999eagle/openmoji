@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #
 # Converts and quantizes all color and black SVGs to the corresponding PNGs in
 # both the 72x72 and 618x618 resolutions.

@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Used by helpers/export-svg-skintones.sh to generate and optimize batches of
 # skintone SVGs from source SVGs.
 # Receives the build plan from helpers/export-svg-skintones.sh on stdin.

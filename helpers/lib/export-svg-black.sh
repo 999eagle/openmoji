@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Used by helpers/export-svg-black.sh to generate and optimize batches of
 # non-skintone black SVGs from color SVGs.
 # Receives the build plan from helpers/export-svg-black.sh on stdin.
